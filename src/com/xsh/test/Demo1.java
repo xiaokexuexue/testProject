@@ -11,7 +11,7 @@ import java.util.List;
  * @date: 2019/10/25 00:00
  */
 
-public class Demo {
+public class Demo1 {
     public static void main(String[] args) {
         Date date = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");

@@ -29,9 +29,9 @@ public class Demo {
         list.add("3");
         for (String s : list) {
             System.out.print(s + ",");
-	    System.out.println("hello world");
-		System.out.println("修改了1111");
-		System.out.println("xueshh修改了...");
+            System.out.println("hello world");
+            System.out.println("修改了1111");
+            System.out.println("xueshh修改了...");
         }
     }
 }
