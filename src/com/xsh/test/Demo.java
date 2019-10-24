@@ -28,7 +28,7 @@ public class Demo {
         list.add("2");
         list.add("3");
         for (String s : list) {
-            System.out.println(s);
+            System.out.print(s + ",");
         }
     }
 }
