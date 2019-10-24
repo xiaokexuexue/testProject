@@ -28,12 +28,8 @@ public class Demo {
         list.add("2");
         list.add("3");
         for (String s : list) {
-<<<<<<< HEAD
             System.out.print(s + ",");
-=======
-            System.out.println(s);
 	    System.out.println("hello world");
->>>>>>> bab6d57dd4c61f2e1959b2ce0de9ca40e3a3ffc6
         }
     }
 }
